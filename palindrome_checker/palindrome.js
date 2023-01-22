@@ -3,10 +3,11 @@ function palindrome(str) {
   let j = newStr.length-1;
   let x = Math.floor(newStr.length/2);
   for (let i = 0; i < x; i++) {
-    if (newStr[i] === newStr[j--]){
-      return true;
-    } else {
+    if (newStr[i] !== newStr[j--]){
       return false;
-    }
+    } 
   }
+  return true;
 }
+
+palindrome("eye");
