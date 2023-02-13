@@ -10,13 +10,12 @@ This repository contains my solutions to the following Projects:
 
 ## Overview
 
--   **Palindrome Checker:** This project taught me the importance of writing clean and readable code. I learned to break down complex problems into smaller, manageable chunks and write code to solve each of them.
+-   **Palindrome Checker:**  A program that checks if a given string is a palindrome, meaning it reads the same backward as forward.
     
--   **Roman Numeral Converter:** This project helped me understand how to work with arrays, loops and conditional statements. I also learned the importance of testing my code with various edge cases to ensure its reliability.
+-   **Roman Numeral Converter:** A program that converts an integer to its equivalent Roman numeral representation.
     
--   **Caesar's Cipher:** This project was a great exercise in using arrays and loops to manipulate strings. I learned how to create a simple encryption algorithm and how to handle special characters in strings.
+-   **Caesar's Cipher:** A program that implements the Caesar Cipher algorithm, a simple encryption technique that replaces each letter with a letter shifted a certain number of positions down the alphabet.
     
--   **Telephone Number Validator:** This project taught me the importance of using regular expressions and their applications in validating user input. I learned how to write regular expressions to match different patterns in a string.
+-   **Telephone Number Validator:** A program that validates a given telephone number to ensure it follows the proper format.
     
--   **Cash Register:** This project was a great introduction to working with objects and using control structures like loops and conditional statements. I learned how to calculate change to be returned to a customer, and how to handle situations where the cash register may not have enough change.
-    
+-   **Cash Register:** A program that calculates the total change due and the breakdown of currency to be given to a customer in a cash transaction.
