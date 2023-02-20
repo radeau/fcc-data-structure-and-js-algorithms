@@ -1,5 +1,7 @@
 # JavaScript Algorithms and Data Structures Projects
 
+[![Certificate](/img/javascript-algorithms-and-data-structures.png 'JS Certificate for Algorithm and Data Structure')](https://www.freecodecamp.org/certification/radeau/javascript-algorithms-and-data-structures)
+
 This repository contains my solutions to the following Projects:
 
 -   Palindrome Checker
